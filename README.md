@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @beaut-cc
 - 👀 I’m interested in novel
-- 🌱 I’m currently learning Kivy
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me v:Data55678
+- 📫 How to reach me v:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
